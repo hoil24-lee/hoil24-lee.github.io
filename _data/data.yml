@@ -254,7 +254,7 @@ skills:
   - name: LangChain & LangGraph
     level: 90%
 
-  - name: Torch
+  - name: PyTorch
     level: 60%
 
 # footer: >
