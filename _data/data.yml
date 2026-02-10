@@ -10,13 +10,13 @@ sidebar:
   # Profile information
   name: Hoil Lee
   tagline: Data Scientist, AI Engineer
-  avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  avatar: profile_pic.jpeg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
   email: hoil24.lee@gmail.com
   # phone: +82 10
   timezone: Asia/Seoul # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-  citizenship: South Korea
+  # citizenship: South Korea
   # website: https://hoil24-lee.github.io/ # Include the full website URL, including "http://" or "https://".
   # linkedin: alandoe
   # xing: alandoe
@@ -70,8 +70,9 @@ career-profile:
       - Data analysis, machine learning, and deep neural networks with heavy-tailed behavior
       - Probability theory: infinite and finite exchangeability, random graphs, and graph limits
 
-    - Theoretical foundations: Probability Theory, Deep Learning, Statistics
-    - Core skills: FastAPI, LangChain & LangGraph, PyTorch
+    Knowledge & Skills:
+      - Theoretical foundations — Probability Theory, Deep Learning, Statistics
+      - Core skills — FastAPI, LangChain & LangGraph, PyTorch
 
 experiences:
   title: Experiences
