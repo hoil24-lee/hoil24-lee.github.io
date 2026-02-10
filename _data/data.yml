@@ -4,7 +4,7 @@
 
 sidebar:
   position: right # position of the sidebar : left or right
-  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
   education: False # set to False if you want education in main section instead of in sidebar
 
   # Profile information
@@ -44,7 +44,7 @@ sidebar:
       level: Fluent
 
   interests:
-    title: Interests
+    title: Hobbies
     info:
     - item: Electric guitars, Jazz & Blues
       link:
@@ -70,32 +70,8 @@ career-profile:
       - Data analysis, machine learning, and deep neural networks with heavy-tailed behavior
       - Probability theory: infinite and finite exchangeability, random graphs, and graph limits
 
-    Theoretical foundations: Probability Theory, Deep Learning, Statistics
-    Core skills: FastAPI, LangChain & LangGraph, PyTorch
-education:
-  title: Education
-  info:
-  - degree: Ph.D. in Mathematical Sciences
-    university: KAIST
-    time: 2018 - 2024
-    details: |
-      Focused on the theory of deep neural networks with heavy tails and inter-node dependence.
-      Studied limiting behaviors of network initialization and learning dynamics, and their connections to kernel methods.
-      Keywords: neural network Gaussian process(NNGP), neural tangent kernel(NTK).
-      Background in probabilistic tools including stochastic processes, exchangeable structures, concentration inequalities, random graphs and graph limits.
-      - Thesis: [*Infinitely wide neural networks with heavy tails and inter-node dependence*](http://hdl.handle.net/10203/322069)
-      - Advisor: Prof. [Paul Jung](https://pauljung.wordpress.com/)
-  - degree: B.S. in Mathematical Sciences
-    university: KAIST
-    time: 2013 - 2018
-    # details: |
-    #   Describe your study here lorem ipsum dolor sit amet, consectetuer
-    #   adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-    #   sociis natoque penatibus et magnis dis parturient montes, nascetur
-    #   ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-    #   pretium quis, sem.
-    #     - Bullet point
-    #     - Bullet point
+    - Theoretical foundations: Probability Theory, Deep Learning, Statistics
+    - Core skills: FastAPI, LangChain & LangGraph, PyTorch
 
 experiences:
   title: Experiences
@@ -112,6 +88,35 @@ experiences:
       - Built a no-code data analysis tool using a code interpreter for automated exploratory analysis and reporting
       - Established evaluation frameworks for LLM quality, groundedness, and latency
       - Delivered APIs and services using FastAPI, integrating with cloud platforms including Azure and Samsung Cloud Platform
+
+education:
+  title: Education
+  info:
+  - degree: Ph.D. in Mathematical Sciences
+    university: KAIST
+    time: 2018 - 2024
+    details: |
+      Focused on the theory of deep neural networks with heavy tails and inter-node dependence.
+      Studied limiting behaviors of network initialization and learning dynamics, and their connections to kernel methods.
+
+      Keywords: neural network Gaussian process(NNGP), neural tangent kernel(NTK).
+
+      Background in probabilistic tools including stochastic processes, exchangeable structures, concentration inequalities, random graphs and graph limits.
+
+      - Thesis: [*Infinitely wide neural networks with heavy tails and inter-node dependence*](http://hdl.handle.net/10203/322069)
+      - Advisor: Prof. [Paul Jung](https://pauljung.wordpress.com/)
+  - degree: B.S. in Mathematical Sciences
+    university: KAIST
+    time: 2013 - 2018
+    # details: |
+    #   Describe your study here lorem ipsum dolor sit amet, consectetuer
+    #   adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+    #   sociis natoque penatibus et magnis dis parturient montes, nascetur
+    #   ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+    #   pretium quis, sem.
+    #     - Bullet point
+    #     - Bullet point
+
 # certifications:
 #   title: Certifications
 #   list:
@@ -180,17 +185,17 @@ publications:
   papers:
   - title: "Over-parameterised Shallow Neural Networks with Asymmetrical Node Scaling: Global Convergence Guarantees and Feature Learning"
     link: "https://openreview.net/forum?id=Sx1khIIi95"
-    authors: François Caron, Fadhel Ayed, Paul Jung, **Hoil Lee**, Juho Lee, and Hongseok Yang
+    authors: François Caron, Fadhel Ayed, Paul Jung, Hoil Lee, Juho Lee, and Hongseok Yang
     conference: TMLR 2025
 
   - title: "Deep neural networks with dependent weights: Gaussian Process mixture limit, heavy tails, sparsity and compressibility"
     link: "https://www.jmlr.org/papers/v24/22-0537.html"
-    authors: "**Hoil Lee**, Fadhel Ayed, Paul Jung, Juho Lee, Hongseok Yang, and François Caron"
+    authors: "Hoil Lee, Fadhel Ayed, Paul Jung, Juho Lee, Hongseok Yang, and François Caron"
     conference: "Journal of Machine Learning Research 24 (289), 1-78"
 
   - title: "α-Stable convergence of heavy-tailed infinitely-wide neural networks"
     link: "https://doi.org/10.1017/apr.2023.3"
-    authors: Paul Jung, **Hoil Lee**, Jiho Lee, and Hongseok Yang
+    authors: Paul Jung, Hoil Lee, Jiho Lee, and Hongseok Yang
     conference: "Advances in Applied Probability 55 (4), 1415-1441"
 
 # projects:
