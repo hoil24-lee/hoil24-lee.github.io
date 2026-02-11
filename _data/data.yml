@@ -65,16 +65,16 @@ career-profile:
     **Currently employed, and open to new opportunities.**
 
     Before joining Samsung SDS, I completed my Ph.D. in Mathematical Sciences at KAIST, where I studied deep neural networks with inter-node dependency and heavy-tailed distributions.
-    I have a strong background in probability theory and statistics, which I apply to develop robust AI solutions.
+    I have a solid foundation in probability theory and statistics, which I apply to develop robust AI solutions.
 
     Professional interests:
       - Large language models and their applications, including retrieval-augmented generation (RAG) and AI agents
       - Data analysis, machine learning, and deep neural networks with heavy-tailed behavior
-      - Probability theory: infinite and finite exchangeability, random graphs, and graph limits
+      - Probability theory - infinite and finite exchangeability, random graphs and graph limits
 
     Knowledge & Skills:
       - Theoretical foundations — Probability Theory, Deep Learning, Statistics
-      - Core skills — FastAPI, LangChain & LangGraph, PyTorch
+      - Core skills — LangChain & LangGraph, FastAPI, PyTorch
 
 experiences:
   title: Experiences
@@ -99,15 +99,15 @@ education:
     university: KAIST
     time: 2018 - 2024
     details: |
+      - Thesis: [*Infinitely wide neural networks with heavy tails and inter-node dependence*](http://hdl.handle.net/10203/322069)
+      - Advisor: Prof. [Paul Jung](https://pauljung.wordpress.com/)
+
       Focused on the theory of deep neural networks with heavy tails and inter-node dependence.
       Studied limiting behaviors of network initialization and learning dynamics, and their connections to kernel methods.
 
-      Keywords: neural network Gaussian process(NNGP), neural tangent kernel(NTK).
+      **Keywords**: neural network Gaussian process(NNGP), neural tangent kernel(NTK).
 
       Background in probabilistic tools including stochastic processes, exchangeable structures, concentration inequalities, random graphs and graph limits.
-
-      - Thesis: [*Infinitely wide neural networks with heavy tails and inter-node dependence*](http://hdl.handle.net/10203/322069)
-      - Advisor: Prof. [Paul Jung](https://pauljung.wordpress.com/)
   - degree: B.S. in Mathematical Sciences
     university: KAIST
     time: 2013 - 2018
@@ -248,10 +248,13 @@ skills:
   title: Skills &amp; Proficiency
 
   toolset:
-  - name: FastAPI
-    level: 90%
+  - name: Python
+    level: 98%
 
   - name: LangChain & LangGraph
+    level: 90%
+
+  - name: FastAPI
     level: 90%
 
   - name: PyTorch
