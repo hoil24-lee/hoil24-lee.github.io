@@ -70,11 +70,11 @@ career-profile:
     Professional interests:
       - Large language models and their applications, including retrieval-augmented generation (RAG) and AI agents
       - Data analysis, machine learning, and deep neural networks with heavy-tailed behavior
-      - Probability theory - infinite and finite exchangeability, random graphs and graph limits
+      - Probability theory -- infinite and finite exchangeability, random graphs and graph limits
 
     Knowledge & Skills:
-      - Theoretical foundations — Probability Theory, Deep Learning, Statistics
-      - Core skills — LangChain & LangGraph, FastAPI, PyTorch
+      - Theoretical foundations -- Probability Theory, Deep Learning, Statistics
+      - Core skills -- LangChain & LangGraph, FastAPI, PyTorch
 
 experiences:
   title: Experiences
@@ -249,7 +249,7 @@ skills:
 
   toolset:
   - name: Python
-    level: 98%
+    level: 95%
 
   - name: LangChain & LangGraph
     level: 90%
