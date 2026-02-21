@@ -101,8 +101,8 @@ education:
     university: KAIST
     time: 2018 - 2024
     details: |
-      - Thesis: [*Infinitely wide neural networks with heavy tails and inter-node dependence*](http://hdl.handle.net/10203/322069)
-      - Advisor: Prof. [Paul Jung](https://pauljung.wordpress.com/)
+      - Thesis: [*Infinitely wide neural networks with heavy tails and inter-node dependence*](http://hdl.handle.net/10203/322069){:target="_blank"}
+      - Advisor: Prof. [Paul Jung](https://pauljung.wordpress.com/){:target="_blank"}
 
       Focused on the theory of deep neural networks with heavy tails and inter-node dependence.
       Studied limiting behaviors of network initialization and learning dynamics, and their connections to kernel methods.
