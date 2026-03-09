@@ -191,7 +191,7 @@ publications:
   - title: "Over-parameterised Shallow Neural Networks with Asymmetrical Node Scaling: Global Convergence Guarantees and Feature Learning"
     link: "https://openreview.net/forum?id=Sx1khIIi95"
     authors: François Caron, Fadhel Ayed, Paul Jung, Hoil Lee, Juho Lee, and Hongseok Yang
-    conference: TMLR 2025
+    conference: Transactions on Machine Learning Research
 
   - title: "Deep neural networks with dependent weights: Gaussian Process mixture limit, heavy tails, sparsity and compressibility"
     link: "https://www.jmlr.org/papers/v24/22-0537.html"
